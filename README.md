@@ -1,230 +1,284 @@
-# 👋 Hey, I'm Yaseen!
+<!-- ===================== PREMIUM HEADER ===================== -->
+
+<div align="center">
+
+# 👋 Hi, I'm **Yaseen**
 
 ### 💻 Web Developer • PHP Developer • Front-End Developer • Tech Explorer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Web+Projects+%F0%9F%9A%80;Learning+Full-Stack+Development+%F0%9F%92%BB;Creating+ShopHub+%F0%9F%9B%92;Exploring+AI+%26+Web+Technologies+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Real-World+Web+Projects+%F0%9F%9A%80;Learning+Full-Stack+Development+%F0%9F%92%BB;Creating+ShopHub+%F0%9F%9B%92;Exploring+AI+%26+Modern+Web+Technologies+%F0%9F%A4%96" />
 
-<p align="center">
-  <a href="https://github.com/M-Yaseen1927">
-    <img src="https://img.shields.io/badge/GitHub-M--Yaseen1927-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/M-Yaseen1927?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/M-Yaseen1927">
+<img src="https://img.shields.io/badge/GitHub-M--Yaseen1927-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/M-Yaseen1927?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-2ea44f?style=for-the-badge&logo=github" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=M-Yaseen1927&label=Profile%20Views&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a developer from **Karachi, Pakistan**, passionate about building websites and learning how modern web applications work from frontend to backend.
+I'm a **Web Developer from Karachi, Pakistan**, passionate about creating modern, responsive and practical web applications.
 
-I enjoy taking an idea, turning it into a working project, and then continuously improving it.
+I enjoy learning by building real projects and improving them step by step — from frontend interfaces to backend systems and AI-powered features.
 
 ```javascript
 const yaseen = {
     role: "Web Developer",
     location: "Karachi, Pakistan",
-    focus: [
-        "Web Development",
-        "PHP Development",
-        "Frontend Development",
-        "Backend Systems",
-        "AI-powered Web Applications"
-    ],
-    currentlyBuilding: "ShopHub",
-    learning: [
+
+    technologies: [
+        "HTML",
+        "CSS",
         "JavaScript",
         "PHP",
-        "APIs",
-        "Databases",
-        "Full-Stack Development"
+        "MySQL",
+        "React.js"
     ],
+
+    currentlyBuilding: "ShopHub",
+
+    interests: [
+        "Web Development",
+        "E-Commerce",
+        "Backend Development",
+        "APIs",
+        "AI Integration"
+    ],
+
     mindset: "Learn → Build → Improve → Repeat"
 };
 ```
 
 ---
 
-## 🚀 What I'm Working On
+# 🚀 What I'm Building
 
-### 🛍️ ShopHub
+<div align="center">
 
-I'm building **ShopHub**, a modern e-commerce/affiliate-store project inspired by large online shopping platforms.
+## 🛍️ ShopHub
 
-The project focuses on combining a customer-facing shopping experience with backend administration and AI-powered functionality.
+### A modern e-commerce & affiliate-store project
 
-### 🔥 Planned & Current Features
+</div>
 
-* 🛒 Product browsing & cart
-* 🔎 Product search
-* 🏷️ Categories & deals
-* 👤 Authentication
-* 📦 Order management
-* ⭐ Customer reviews
-* ⚙️ Admin panel
-* 🤖 AI-powered features
-* 📱 Responsive design
-* 🌙 Dark / Light mode
-* 🔗 Affiliate product integration
-* 📊 Product management
-* 🧩 Backend APIs
-* 🗂️ Data-driven product system
+ShopHub is one of my main projects, focused on creating a modern shopping experience with a powerful backend and administration system.
+
+### ✨ Main Features
+
+| Feature                  | Status       |
+| ------------------------ | ------------ |
+| 🛒 Product System        | 🚧 Building  |
+| 🔎 Product Search        | 🚧 Building  |
+| 🏷️ Categories & Deals   | 🚧 Building  |
+| 👤 Authentication        | 🚧 Building  |
+| 📦 Orders                | 🚧 Building  |
+| ⭐ Reviews                | 🚧 Building  |
+| ⚙️ Admin Panel           | 🚧 Building  |
+| 🤖 AI Features           | 🔬 Exploring |
+| 🌙 Dark / Light Mode     | ✅            |
+| 📱 Responsive UI         | 🚧 Improving |
+| 🔗 Affiliate Integration | 🚧 Building  |
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/M-Yaseen1927?tab=repositories">
+
+<img src="https://img.shields.io/badge/🔎%20Explore%20My%20Projects-Click%20Here-36BCF7?style=for-the-badge" />
+
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
+
+<div align="center">
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### ⚙️ Backend & Data
+### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,json" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,mysql,json" />
 
-### 🧰 Tools
+### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,xampp" />
+
+</div>
 
 ---
 
-## 📚 Currently Learning
+# 🧠 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&center=true&vCenter=true&width=650&lines=JavaScript+%7C+PHP+%7C+MySQL;APIs+%7C+Backend+Development;Full-Stack+Web+Development;AI+%26+Web+Integration" />
+
+</div>
+
+* 📚 JavaScript development
+* ⚙️ PHP backend development
+* 🗄️ MySQL & database concepts
+* 🔌 APIs and backend communication
+* ⚛️ React.js
+* 🤖 AI integration
+* 🌐 Full-stack development
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=M-Yaseen1927&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Yaseen1927&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=M-Yaseen1927&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 My Development Journey
+
+<div align="center">
 
 ```text
-HTML & CSS          ████████████████████  Advanced
-JavaScript          ███████████████░░░░░  Learning
-PHP                 ███████████████░░░░░  Learning
-APIs                ████████████░░░░░░░░  Learning
-Databases           ███████████░░░░░░░░░  Learning
-Full-Stack Dev      ██████████░░░░░░░░░░  Growing
-AI Integration      ████████░░░░░░░░░░░░  Exploring
+        💡 IDEA
+          │
+          ▼
+     📝 PLAN & LEARN
+          │
+          ▼
+     💻 BUILD PROJECT
+          │
+          ▼
+      🧪 TEST & FIX
+          │
+          ▼
+       🚀 DEPLOY
+          │
+          ▼
+      🔄 IMPROVE
+          │
+          └──────────────► 💡 NEXT IDEA
 ```
 
-> These are learning-progress indicators, not formal skill ratings.
+</div>
 
 ---
 
-## 🌟 Featured Project
+# 🎯 My Goals
 
-### 🛍️ ShopHub
+<div align="center">
 
-**An e-commerce and affiliate-store web project built with modern web technologies.**
+| Goal               | Focus                           |
+| ------------------ | ------------------------------- |
+| 💻 Web Development | Build real-world applications   |
+| 🛍️ ShopHub        | Expand the project              |
+| ⚙️ Backend         | Improve PHP & database skills   |
+| 🔌 APIs            | Build better integrations       |
+| 🤖 AI              | Explore AI-powered applications |
+| 🌐 Deployment      | Learn production deployment     |
+| 📚 Learning        | Continuously improve            |
 
-**Focus:**
-`E-Commerce` • `PHP` • `JavaScript` • `HTML` • `CSS` • `APIs` • `Admin Panel` • `AI`
-
-🔗 **[View my GitHub repositories →](https://github.com/M-Yaseen1927?tab=repositories)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M-Yaseen1927&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Yaseen1927&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+# 💡 What I Love Building
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Yaseen1927&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/🌐%20Websites-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🛒%20E--Commerce-FF9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️%20Admin%20Panels-6f42c1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖%20AI%20Web%20Apps-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔌%20APIs-2ea44f?style=for-the-badge" />
 
-## 📈 My Development Journey
-
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-PHP
-  ↓
-APIs & Databases
-  ↓
-Full-Stack Development
-  ↓
-AI-Powered Web Applications
-```
-
-I'm focused on learning by **building real projects**, not just following tutorials.
+</div>
 
 ---
 
-## 🎯 2026 Goals
+# 🌟 Featured Work
 
-* 🚀 Build and improve real-world web applications
-* 🛍️ Continue developing ShopHub
-* 🧠 Strengthen JavaScript & PHP
-* 🔌 Learn more about APIs and backend architecture
-* 🗄️ Improve database development
-* 🤖 Explore AI integration
-* 🌐 Deploy production-ready projects
-* 📂 Build a strong open-source portfolio
-* 📚 Keep learning new technologies
+<div align="center">
 
----
+<a href="https://github.com/M-Yaseen1927/shophub">
 
-## 💡 My Development Philosophy
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Yaseen1927&repo=shophub&theme=tokyonight&hide_border=true" />
 
-> **Don't just learn the technology. Build something with it.**
+</a>
 
-Every project is an opportunity to learn something new, solve a problem, and improve.
+</div>
 
 ---
 
-## 📌 Areas I'm Interested In
+# 🧩 Developer Mindset
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/E--Commerce-FF9900?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge" />
+### **Learn → Build → Break → Fix → Improve → Repeat**
 
-</p>
+<br>
 
----
+*"Every project is another step forward."*
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/M-Yaseen1927">
-    <img src="https://img.shields.io/badge/GitHub-M--Yaseen1927-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 👀 Thanks for Visiting!
+# 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=M-Yaseen1927&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/M-Yaseen1927">
 
-</p>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
 
-<p align="center">
-  ⭐ If you find one of my projects useful, consider giving it a star!
-</p>
+</a>
 
-<p align="center">
+<a href="https://github.com/M-Yaseen1927?tab=repositories">
 
-### 🚀 Learn. Build. Improve. Repeat.
+<img src="https://img.shields.io/badge/Repositories-My%20Projects-36BCF7?style=for-the-badge&logo=github" />
 
-</p>
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🚀 BUILD SOMETHING. LEARN SOMETHING. IMPROVE EVERY DAY.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
