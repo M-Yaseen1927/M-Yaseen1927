@@ -138,19 +138,9 @@ ShopHub is one of my main projects, focused on creating a modern shopping experi
 * 🤖 AI integration
 * 🌐 Full-stack development
 
----
 
-# 📊 GitHub Activity
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-Yaseen1927&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Yaseen1927&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-
-</div>
 
 ---
 
@@ -223,19 +213,9 @@ ShopHub is one of my main projects, focused on creating a modern shopping experi
 
 </div>
 
----
 
-# 🌟 Featured Work
 
-<div align="center">
 
-<a href="https://github.com/M-Yaseen1927/shophub">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Yaseen1927&repo=shophub&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
 
 ---
 
